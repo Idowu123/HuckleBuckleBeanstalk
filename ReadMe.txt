@@ -1,0 +1,1 @@
+This is a game in which the computer will be hiding a number(0 - 100), and the user will be trying to find it. Each time the seeker makes a guess, the hider responds "getting hotter" if she's getting closer, or "getting colder" if she's moved farther away. 
