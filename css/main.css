@@ -1,0 +1,91 @@
+body{
+ background-image: url('../img/vectorb.jpg');
+}
+#transp{
+	background-color: rgba(0,0,0, 0.6);
+	height: 650px;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+/*.myalert{
+	font-family: 'Open Sans', sans-serif;
+  	font-weight: bold;
+}*/
+#head{
+	font-size: 30px;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-top: -30px;
+	text-align: center;
+	color: green;
+	font-family: 'Roboto' , sans-serif 900;
+}
+
+#about{
+margin-top: 10px;
+min-height: 100px;
+font-size: 20px;
+color: lightpink;
+text-align: center;
+}
+
+#numberform{
+	text-align: center;
+
+}
+
+
+nav{
+	padding: 10px 0;
+
+}
+
+nav a{
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+
+
+#comment{
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+#myp{
+	background-color: rgba(35,56,20, 0.5);
+  	text-align: center;
+  	padding: 5px 0;
+  	border-radius: 3em;
+  	font-size: 1.3em;
+    min-height: 10px;
+  	color: #fff; 
+  	margin: 0 auto;
+  	width: 500px; 
+}
+
+
+input[type="text"]{
+	margin: 0 auto;
+	display: block;
+	width: 60px;
+	height: 40px;
+	background-color: lightpink;
+ 	width: 200px;
+ 	height: 200px;
+ 	font-size: 35px;
+ 	text-align: center;
+ }
+
+#guess, #new{
+	border-radius: 5px;
+	padding:5px;
+  	background-color: green;
+  	border: 1px solid green;
+  	color:#fff;
+  	font-weight: bold;
+  	margin: 20px 0;
+  	}
+
